@@ -1,0 +1,2 @@
+# IonicPartnersAutomation
+Automation test 
